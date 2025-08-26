@@ -32,8 +32,6 @@ A **blockchain implementation** featuring secure cryptographic primitives:
 ├── gost_hash256.py # Implementation of GOST 34.11-2018 (256-bit)
 ├── prng.py # PRNG using iterative GOST hashing
 ├── signature.py # Schnorr signature (key-prefixed)
-├── tests/
-│ └── smoke_demo.py # Minimal integration test
 └── README.md
 ```
 
