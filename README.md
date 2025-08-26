@@ -51,7 +51,7 @@ Run Blockchain Demo
 ```
 python blockchain.py
 ```
-Example output^
+Example output:
 ```
 Block mined: nonce=26, hash=04b739b1dd02d0c3...
 Block mined: nonce=110, hash=01715dec01c126b4...
